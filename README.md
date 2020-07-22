@@ -1,5 +1,21 @@
-# Crisis Management System 
+The project aims to allow seamless collaboration between Singapore government agencies in times of emergency. 
+Main features of the application:
+1) Creation and modification of incidents e.g. haze, car accidents by professionals in government agencies, 
+2) Monitor active incidents on a centralised map of Singapore. 
+3) Automatically generate and send notifications to affected subscribers via SMS, summarized reports to the president office via email, and broadcast updates to Telegram channel. 
 
+Watch the full vido demo:
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/BDBIkziQnvc/0.jpg)](https://www.youtube.com/watch?v=BDBIkziQnvc)
+
+Personal Contribution:  
+- Second Team Leader and front-end developer in a team of 10 
+- Actively involved in the design, documentation, and implementation of the system
+- Mainly worked on the display and real-time update of the incident map
+- The map content is adjustable through flters, while incident labels can be expanded to show details.
+- Video demo on incident map:  
+
+---------------------------------------------------
+To host the website locally:
 ## Pipfile 
 We are using pipenv to create a virtual environment for our projects, to manage our python packages easily. 
 
