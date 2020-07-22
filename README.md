@@ -16,6 +16,8 @@ Personal Contribution:
 - Mainly worked on the display and real-time update of the incident map
 - The map content is adjustable through flters, while incident labels can be expanded to show details.
 - Video demo on incident map:  
+![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/44166629/88136912-ef0d5380-cc1c-11ea-9035-920a54087b4c.gif)
+
 
 
 
